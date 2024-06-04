@@ -18,7 +18,7 @@ namespace taskk15
             int number3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number4");
             int number4 = Convert.ToInt32(Console.ReadLine());
-           ;
+           
             int maxnumber = number1;
             if (maxnumber < number2)
             {
